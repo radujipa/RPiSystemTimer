@@ -1,4 +1,4 @@
 RPiSystemTimer
 ==============
 
-A kernel device driver 
+A kernel device driver for the Raspberry Pi system timer
